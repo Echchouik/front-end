@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home.component';
 import { PhotoList } from './components/photo-list.component';
 import { SidePanel } from './components/side-panel.component';
+import { NavBar } from './components/nav-bar.component';
 
 import { PhotoService } from './services/photo.service';
 
@@ -15,7 +16,8 @@ import { PhotoService } from './services/photo.service';
     AppComponent,
     HomeComponent,
     PhotoList,
-    SidePanel
+    SidePanel,
+    NavBar
   ],
   imports: [
     BrowserModule,

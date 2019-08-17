@@ -25,8 +25,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/semantic-ui/dist/semantic.css",
-              "src/resources/css/main.css"
+              "node_modules/semantic-ui/dist/semantic.css"
             ],
             "scripts": [
               "node_modules/semantic-ui/dist/semantic.min.js"
