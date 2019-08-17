@@ -1,0 +1,36 @@
+.breadcrumb p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	color: #777;
+	font-size: 14px;
+}
+
+.breadcrumb p a {
+	color: #aa1212;
+}
+
+.main-content h6 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 27px;
+	color: #000;
+	margin-bottom: 20px;
+}
+
+.main-content p {
+	font-size: 17px;
+	color: #777;
+	line-height: 29px;
+	margin-bottom: 20px;
+}
+
+.main-content img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+.main-content h1 {
+	margin-bottom: 20px;
+}
